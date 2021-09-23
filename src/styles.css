@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+#info {
+  display: table;
+}
+
+.infoElement {
+  display: table-cell;
+}
+
+#gamescreen {
+  border: 1px solid black;
+}
